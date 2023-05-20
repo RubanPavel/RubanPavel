@@ -4,7 +4,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+![github contribution grid snake animation](https://raw.githubusercontent.com/RubanPavel/RubanPavel/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https:/ /raw.githubusercontent.com/RubanPavel/RubanPavel/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ### <h1 align="center">Hi there, I'm Pavel Ruban <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ### SKILLS
