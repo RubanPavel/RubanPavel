@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/RubanPavel/RubanPavel/blob/output/github-contribution-grid-snake.gif)
 
 
 ### <h1 align="center">Hi there, I'm Pavel Ruban <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
