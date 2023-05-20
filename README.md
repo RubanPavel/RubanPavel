@@ -31,3 +31,7 @@
 ##  CodeWars: ## 
 
 ![alt rank](https://www.codewars.com/users/Ruban_Code/badges/large)
+
+##  Top Langs: ## 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubanPavel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
