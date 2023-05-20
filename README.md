@@ -1,9 +1,10 @@
+### <h1 align="center">Hi there, I'm Pavel Ruban <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <picture>
 ![snake gif](https://github.com/RubanPavel/RubanPavel/blob/output/github-contribution-grid-snake.gif)
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RubanPavel/RubanPavel/output/github-contribution-grid-snake.svg">
 </picture>
 
-### <h1 align="center">Hi there, I'm Pavel Ruban <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ### SKILLS
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
