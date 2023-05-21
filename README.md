@@ -53,4 +53,4 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-RubanPavel)
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
+![soft](https://capsule-render.vercel.app/api?type=waving&color=0:30a14e,100:34B790&height=150&section=footer&&text=Come%20again!&fontSize=40&fontAlignY=75&fontColor=ffffff&animation=twinkling)
