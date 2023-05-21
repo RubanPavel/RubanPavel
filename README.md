@@ -48,3 +48,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubanPavel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-RubanPavel)
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
