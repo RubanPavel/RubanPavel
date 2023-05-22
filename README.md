@@ -4,7 +4,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:30a14e,100:34B790&height=256&section=header&text=Hello,%20I'm%20Pavel%20Ruban&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62) -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:30a14e,100:34B790&height=220&section=header&text=Hello,%20I'm%20Pavel%20Ruban&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
-### SKILLS
+### SKILLS:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-30a14e?style=for-the-badge&logo=axios&logoColor=white)
